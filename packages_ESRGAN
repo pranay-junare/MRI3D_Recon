@@ -1,1 +1,0 @@
-pip install numpy pandas seaborn matplotlib scikit-image pillow opencv-python scikit-learn nilearn nibabel tensorflow keras torch torchvision gif_your_nifti dipy kaggle tensorflow-hub gdown
